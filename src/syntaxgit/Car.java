@@ -6,6 +6,7 @@ public class Car {
 		 String model;
 		 int doors;
 		 int year;
+		 String numberplate;
 		 
 		
 	}

@@ -8,8 +8,9 @@ public class Main {
 		subaru.doors=2;
 		subaru.model="impreza";
 		subaru.year=1998;
+		subaru.numberplate="900934";
 		
-		 
-	}
+		
+}
 
 }
